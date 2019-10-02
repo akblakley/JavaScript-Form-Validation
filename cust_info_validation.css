@@ -1,0 +1,89 @@
+
+/*
+Style sheet for HTML form with Javascript validation 
+ * ======================================================================== */
+ 
+validationForm {
+	margin-left: 70px;
+	font-weight: bold;
+	float: left;
+	clear: left;
+	width: 100px;
+	text-align: left;
+	margin-right: 10px;
+	font-family: sans-serif,bold, Arial, Helvetica;
+	font-size: 14px;
+}
+
+div {
+	box-sizing: border-box;
+	width: 100%
+	border: 100px solid black;
+	float: left;
+	align-content: center;
+	align-items: center;
+}
+	
+container {
+  max-width: 1000px !important;
+  width: auto; }
+  clear: both
+}
+ 
+container input {
+	 width: 100%
+	 clear: both;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-size: 110.5%; }
+
+.form{
+	position: center;
+	z-index: 1;
+	background: #ffffff;
+	max-width: 300px;
+	padding: 30px;
+	text-align: center;
+  }
+
+body {
+	background-image: linear-
+	gradient (rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(/usflogo2.jpg);
+	background-size: cover;
+	background-position: center;
+	color: #000000;
+	font-size: 12px;
+	font-family: Georgia, sans-serif;
+	font-weight: 400;
+	padding-top: 100px;
+  }
+
+h1, .h1 {
+	font-size: 12px;
+	font-size: 1.50rem; }
+	text-align: center;
+
+hr {
+  border-top-color: #e9ebec; }
+
+p {
+  margin: 0 0 30px; }
+  p:last-child {
+    margin-bottom: 0; }
+
+
+.btn {
+  font-size: 12px;
+  font-size: 1rem;
+  border-radius: 0;
+  padding: 6px 12px 4px; }
+
+
+
+
+ 
+
+  
